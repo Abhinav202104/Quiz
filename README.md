@@ -1,2 +1,2 @@
 # Quiz
-Tkinter Ui
+Tkinter Ui,Python
